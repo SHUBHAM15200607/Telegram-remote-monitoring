@@ -40,7 +40,7 @@ telegram_remote/
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/telegram-remote-monitoring.git
+git clone https://github.com/SHUBHAM15200607/telegram-remote-monitoring.git
 cd telegram-remote-monitoring
 
 2. Install dependencies:
